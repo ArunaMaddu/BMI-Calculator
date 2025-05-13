@@ -106,7 +106,7 @@ Disclaimer
 This BMI calculator is for informational purposes only. Consult a healthcare professional for medical advice.
 
 Contact
-Your Name - @ArunaMaddu - madduaruna134@example.com
+Your Name - @ArunaMaddu - madduaruna134@gmail.com
 
 Project Link: https://arunamaddu.github.io/BMI-Calculator/
 
